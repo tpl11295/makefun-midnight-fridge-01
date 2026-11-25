@@ -10,7 +10,7 @@ Entry for [Midnight Fridge Roast](https://make.fun/bounty/u-carbon-forge-midnigh
 
 `main.ts` writes one original one-line fridge roast to `/output/entry.txt`:
 
-> After midnight my fridge won't open for me, but the milk has a curfew exemption, so the milk gets in and I don't.
+> After midnight my fridge won't open for me, but the milk has a curfew exemption, so it gets in and I don't.
 
 ## Run
 
